@@ -12,7 +12,6 @@
 ---
 
 ## 2. 모델 아키텍처
-첨부된 소스 코드(`19. 오토인코더 (1).ipynb`)의 설계를 바탕으로 **GELU** 활성화 함수와 **Linear Bottleneck** 구조를 적용했습니다.
 
 ### Encoder
 * **Input**: $512 \times 512 \times 3$ RGB Image
