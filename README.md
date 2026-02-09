@@ -1,4 +1,4 @@
-# 🐾 Animal Image Retrieval (CBIR) using Autoencoder
+# 🐾 Animal Image Retrieval (CBIR) using Autoencoder(오토인코더)
 
 이 프로젝트는 **Convolutional Autoencoder**(**CAE**)를 활용하여 동물 이미지의 핵심 특징(Latent Feature)을 추출하고, 이를 기반으로 유사한 이미지를 검색하는 **내용 기반 이미지 검색(Content-Based Image Retrieval, CBIR)** 시스템을 구현한 과제입니다.
 
